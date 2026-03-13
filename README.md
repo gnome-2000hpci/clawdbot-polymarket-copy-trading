@@ -1,4 +1,4 @@
-<img width="4096" height="2577" alt="Preview" src="https://github.com/user-attachments/assets/4833e67a-9724-44aa-a866-aa1cb13c45bc" /># ClawdBot — Polymarket Copy-Trading Bot
+# ClawdBot — Polymarket Copy-Trading Bot
 
 > Mirror the wallets beating Polymarket — automatically. ClawdBot scores every active wallet by win rate, liquidity, and signal confidence, then copies their positions on your behalf. Zero manual analysis required.
 
